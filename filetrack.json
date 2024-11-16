@@ -1,0 +1,82 @@
+{
+  "files": {
+    "/Users/guojt/PRJNA554329_WGS_WES": {
+      "filename": "PRJNA554329_WGS_WES",
+      "filetype": "directory",
+      "filesize": 319525441,
+      "create_time": "2024-01-12 14:41:19",
+      "modify_time": "2024-01-12 14:41:19",
+      "creator": {
+        "uid": 501,
+        "name": "guojt"
+      },
+      "tags": []
+    },
+    "/Users/guojt/PRJNA554329_WGS_WES/6_signatures/deconstructSigs_out": {
+      "filename": "deconstructSigs_out",
+      "filetype": "directory",
+      "filesize": 46173419,
+      "create_time": "2024-01-12 14:40:56",
+      "modify_time": "2024-01-12 14:40:56",
+      "creator": {
+        "uid": 501,
+        "name": "guojt"
+      },
+      "tags": []
+    },
+    "/Users/guojt/Projects/PRAD_GWAS/ebi-a-GCST006085.vcf.gz": {
+      "filename": "ebi-a-GCST006085.vcf.gz",
+      "filetype": "file",
+      "filesize": 535382891,
+      "create_time": "2024-10-02 19:44:38",
+      "modify_time": "2024-10-02 19:44:14",
+      "creator": {
+        "uid": 501,
+        "name": "guojt"
+      },
+      "tags": [
+        "vcf"
+      ]
+    },
+    "/Users/guojt/Projects/PRAD_GWAS/29892016-GCST006085-EFO_0001663.h.tsv.gz": {
+      "filename": "29892016-GCST006085-EFO_0001663.h.tsv.gz",
+      "filetype": "file",
+      "filesize": 706089446,
+      "create_time": "2024-10-02 20:24:00",
+      "modify_time": "2024-09-14 16:55:37",
+      "creator": {
+        "uid": 501,
+        "name": "guojt"
+      },
+      "tags": []
+    },
+    "/Users/guojt/Projects/QTLbase2": {
+      "filename": "QTLbase2",
+      "filetype": "directory",
+      "filesize": 336924198,
+      "create_time": "2024-09-02 14:59:19",
+      "modify_time": "2024-09-02 14:59:19",
+      "creator": {
+        "uid": 501,
+        "name": "guojt"
+      },
+      "tags": [
+        "qb"
+      ]
+    },
+    "/Users/guojt/Projects/plink2_1KG_geno": {
+      "filename": "plink2_1KG_geno",
+      "filetype": "directory",
+      "filesize": 3765375697,
+      "create_time": "2024-09-15 18:05:55",
+      "modify_time": "2024-09-15 18:05:55",
+      "creator": {
+        "uid": 501,
+        "name": "guojt"
+      },
+      "tags": [
+        "a"
+      ]
+    }
+  }
+}
